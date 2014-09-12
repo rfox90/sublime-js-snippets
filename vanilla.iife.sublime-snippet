@@ -2,7 +2,7 @@
     <content><![CDATA[
 (function () {
 	${0: // body...}
-})(); 
+}()); 
 ]]></content>
     <tabTrigger>ii</tabTrigger>
     <scope>source.js</scope>
